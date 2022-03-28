@@ -9,7 +9,7 @@ public class STRINGMARAVILLOSO{
         String M = "MARAVILLOSO";
         //Version Con metodos
         System.out.println("LA versió que tenim a github ha estat actualitzada i és mes actual que la que tinc en local");
- 
+        System.out.println("Version 2.0 en github pero no en original");
         //Imprime los primeros dos triangulos de izq a derecha de la primera parte (parte superios)
         for (int i =0; i<M.length();i++){
             //Imprime espacios de la primera parte para el primer triangulo 
